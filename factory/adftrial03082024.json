@@ -1,0 +1,9 @@
+{
+	"name": "adftrial03082024",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9536aaff-96db-403d-b644-6b4e0a89196c",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
